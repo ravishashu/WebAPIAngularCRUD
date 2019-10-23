@@ -1,0 +1,13 @@
+D:\learning\core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\learning\core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\learning\core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\learning\core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\learning\core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\learning\core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
